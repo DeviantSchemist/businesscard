@@ -10,7 +10,7 @@ import Footer from "./components/footer";
 function App() {
 
   return (
-    <div className="App">
+    <div className="App w-[317px]">
       <Info />
       <About />
       <Interest />
