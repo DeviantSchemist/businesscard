@@ -8,7 +8,7 @@ import Footer from "./components/footer";
 function App() {
 
   return (
-    <div className="App w-[317px]">
+    <div className="App w-[317px] m-auto">
       <Info />
       <About />
       <Interest />
